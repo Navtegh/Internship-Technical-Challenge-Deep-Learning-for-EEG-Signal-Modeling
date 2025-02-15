@@ -19,7 +19,7 @@ The goal of this project is to classify EEG signals using different deep learnin
 
 ## ⚡ **Key Findings**
 - **EEGNet is the best model overall**, achieving high accuracy with minimal computational cost.
-- **Transformer models generalize well** across subjects but require **significantly more computation** (640s training time, 1.1GB memory).
+- **Transformer models generalize well** across subjects but require **significantly more computation** (640s training time).
 - **CNN performs well but is slightly less efficient than EEGNet.**
 - **LSTM and CNN-GRU struggle with cross-subject generalization.**
 ## Author
